@@ -8,16 +8,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cefjoeii/mern-crud.git"
+    "type": "git"
   },
-  "keywords": [],
-  "author": "Ceferino Jose II",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cefjoeii/mern-crud/issues"
-  },
-  "homepage": "https://github.com/cefjoeii/mern-crud#readme",
+  "keywords": [
+    "url",
+    "url-shortener",
+    "shortener",
+    "rc",
+    "react",
+    "mongo"
+  ],
+  "author": "Nikhil Kudlur",
+  "license": "RIT",
   "dependencies": {
     "body-parser": "1.19.0",
     "cors": "2.8.5",
